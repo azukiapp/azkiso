@@ -1,4 +1,4 @@
-FROM boot2docker
+FROM boot2docker/boot2docker
 MAINTAINER Everton Ribeiro <everton@azukiapp.com>
 
 ENV ROOTFS          /rootfs
